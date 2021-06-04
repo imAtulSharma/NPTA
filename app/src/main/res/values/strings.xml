@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NPTA</string>
+    <string name="title_btn_start">start</string>
+    <string name="title_btn_stop">stop</string>
+</resources>
